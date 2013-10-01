@@ -1,0 +1,26 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: solid #000;
+  margin: 10px;
+  background: white;
+  border-radius: 100%;
+}
+
+#red {
+  background: #F19181;
+}
+
+#blue {
+  background: #3CBAC8;
+}
+
+#yellow {
+  background: #F3F5C4;
+}
+
+body {
+  background: radial-gradient(ellipse at top, #d1e8fc 100%,#89bbe4 100%);
+}
+
+/* */ 
